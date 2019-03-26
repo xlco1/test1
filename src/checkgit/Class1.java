@@ -12,7 +12,12 @@ public class Class1 {
 		 * code
 		 * 
 		 */
-		System.out.println("second");		
+		System.out.println("second");	
+		
+		
+		System.out.println("second");
 	}
+	
+	
 
 }
